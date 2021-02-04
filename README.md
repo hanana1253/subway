@@ -1,4 +1,4 @@
-# subway
+# SUBWAY PROJECT
 
 ## Subway Project just for fun
 
@@ -15,4 +15,4 @@ This will help you decide what to eat at subway sandwich.
 - shows when you spend how much in the prepaid account
 - how much your order will cost
 
-- 
+and more...  
